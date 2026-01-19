@@ -9,7 +9,7 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 - **Languages**: Python, R,  SQL
 - **ML/DS**: scikit-learn, XGBoost, TensorFlow/Keras, PyTorch, pandas, NumPy, Matplotlib/Seaborn
 - **NLP & GenAI**: Hugging Face Transformers, Ollama, NLTK, spaCy
-- **Specializations**: Specializations: Time-series forecasting, supervised/unsupervised learning, anomaly detection, model validation & governance
+- **Specializations**: Specializations: Time-series forecasting, supervised/unsupervised learning, topic modelling, anomaly detection, model validation & governance
 
 ### 💼 What Makes Me Different
 - Built production risk models under strict regulatory frameworks (PRA, ECB, FINMA)
