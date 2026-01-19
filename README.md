@@ -1,5 +1,5 @@
 
-# Hi, I'm Ali Aydin Yildiz 👋
+# Hi, I'm Aydin Yildiz 👋
 
 ## Financial Risk Professional Transitioning to Data Science & Machine Learning / AI Engineering
 
@@ -14,7 +14,7 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 ### 💼 What Makes Me Different
 - Built production risk models under strict regulatory frameworks (PRA, ECB, FINMA)
 - Delivered $1bn+ RWA optimization through advanced analytics
-- Strong software engineering background (C#, VBA) for risk systems / solutions development
+- Strong software engineering background (Python, C#, VBA) for risk systems / solutions development
 - Led cross-functional teams bridging technical and business stakeholders
 - Currently completing Cambridge Data Science Career Accelerator program
 
