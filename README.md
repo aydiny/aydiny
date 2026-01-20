@@ -1,7 +1,7 @@
 
 # Hi, I'm Aydin Yildiz 👋
 
-## Financial Risk Professional Transitioning to Data Science & Machine Learning / AI Engineering
+## Data Scientist,  Machine Learning Engineer / AI Engineer with extensive Financial Risk Modelling & Management experience
 
 I'm a senior risk professional with 10+ years at tier-1 investment banks (Barclays, Credit Suisse) now pivoting to Data Science and AI. I combine deep quantitative modeling expertise with hands-on machine learning skills.
 
