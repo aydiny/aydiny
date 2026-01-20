@@ -7,7 +7,7 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 
 ### 🔧 Technical Skills
 - **Languages**: Python, R,  SQL
-- **ML/DS**: scikit-learn, XGBoost, TensorFlow/Keras, PyTorch, pandas, NumPy, Matplotlib/Seaborn
+- **ML/DS**: scikit-learn, XGBoost, TensorFlow/Keras, pandas, NumPy, Matplotlib/Seaborn
 - **NLP & GenAI**: Hugging Face Transformers, Ollama, NLTK, spaCy
 - **Specializations**: Specializations: Time-series forecasting, supervised/unsupervised learning, topic modelling, anomaly detection, model validation & governance
 
@@ -16,7 +16,7 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 - Delivered $1bn+ RWA optimization through advanced analytics
 - Strong software engineering background (Python, C#, VBA) for risk systems / solutions development
 - Led cross-functional teams bridging technical and business stakeholders
-- Currently completing Cambridge Data Science Career Accelerator program
+- I developed  sophisticated machine learning projects end-to-end using decision trees, neural networks, NLP and GenAI techniques.
 
 ### 📊 Featured Projects
 - **[Market Prediction Models](link)** - XGBoost & Neural Networks for financial time-series
