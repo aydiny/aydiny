@@ -16,7 +16,7 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 - Delivered $1bn+ RWA optimization through advanced analytics
 - Strong software engineering background (Python, C#, VBA) for risk systems / solutions development
 - Led cross-functional teams bridging technical and business stakeholders
-- I developed  sophisticated machine learning projects end-to-end using decision trees, neural networks, NLP and GenAI techniques.
+- I developed  sophisticated end-to-end machine learning projects using decision trees, neural networks, NLP and GenAI techniques.
 
 ### 📊 Featured Projects
 - **[Market Prediction Models](link)** - XGBoost & Neural Networks for financial time-series
