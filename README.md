@@ -13,7 +13,7 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 
 ### 💼 What Makes Me Different
 - Built production risk models under strict regulatory frameworks (PRA, ECB, FINMA)
-- Delivered $1bn+ RWA optimization through advanced analytics
+- Delivered multi-billion USD RWA optimization through advanced analytics
 - Strong software engineering background (Python, C#, VBA) for risk systems / solutions development
 - Led cross-functional teams bridging technical and business stakeholders
 - I developed  sophisticated end-to-end machine learning projects using decision trees, neural networks, NLP and GenAI techniques.
