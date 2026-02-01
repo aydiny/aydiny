@@ -26,7 +26,7 @@ I combine deep technical ability with the leadership experience to guide teams, 
 A forward-thinking team in FinTech, HealthTech, or Enterprise AI to architect and ship the next generation of reliable, intelligent AI products.
 
 ### ⚡ Personal Interests
-Visual arts and industrial design enthusiast, an amateur DIY'er , :tennis: player/fan . Music, novels and movies are essentials of life for me.
+Visual arts and industrial design enthusiast, an amateur DIY'er , :tennis: tennis player/fan . Music, novels and movies are essentials of life for me.
 
 ### 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/ali-aydin-yildiz-aa69841b]
