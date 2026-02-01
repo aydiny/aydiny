@@ -5,9 +5,9 @@
 
 ### 🔧 Technical Skills
 - **Languages**: Python, R,  SQL
-- **ML/DS**: scikit-learn, XGBoost, TensorFlow/Keras, pandas, NumPy, Matplotlib/Seaborn
-- **NLP & GenAI**: Hugging Face Transformers, Ollama, NLTK, spaCy
-- **Specializations**: Time-series forecasting, supervised/unsupervised learning, topic modelling, anomaly detection, model validation & governance
+- **ML/DS**: scikit-learn, LightGBM, XGBoost, TensorFlow/Keras, pandas, NumPy, Matplotlib/Seaborn
+- **NLP & GenAI**: Hugging Face, Ollama, Transformers, NLTK, spaCy
+- **Specializations**: Time-series forecasting with Deep Neural networks, LightGBM, RandomForest, unstructured text analysis and topic modelling with Transformers, NLP and GenAI, data segmentation / anomaly detection with unsupervised learning methods
 
 ### 💼 What Makes Me Different
 I am a Senior AI/ML Engineer leveraging 15+ years of experience designing data-intensive intelligent systems for high-stakes environments. I combine the mathematical rigor of a Quantitative Risk veteran with the creative drive of a Product Builder to engineer AI solutions that are as reliable and trustworthy as they are innovative.
