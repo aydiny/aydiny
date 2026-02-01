@@ -1,9 +1,7 @@
 
-# Hi, I'm Aydin Yildiz 👋
+# Hi, this is Aydin! 👋
 
-## Data Scientist,  Machine Learning Engineer / AI Engineer with extensive Financial Risk Modelling & Management experience
-
-I'm a senior risk professional with 10+ years at tier-1 investment banks (Barclays, Credit Suisse) now pivoting to Data Science and AI. I combine deep quantitative modeling expertise with hands-on machine learning skills.
+## Machine Learning & AI Engineer | 15+ Years Architecting Intelligent Risk Systems | Building intelligent products and services powered with NLP, GenAI & Deep Learning | Turning Complex Data into Actionable Solutions
 
 ### 🔧 Technical Skills
 - **Languages**: Python, R,  SQL
@@ -12,22 +10,23 @@ I'm a senior risk professional with 10+ years at tier-1 investment banks (Barcla
 - **Specializations**: Time-series forecasting, supervised/unsupervised learning, topic modelling, anomaly detection, model validation & governance
 
 ### 💼 What Makes Me Different
-- Built production risk models under strict regulatory frameworks (PRA, ECB, FINMA)
-- Delivered multi-billion USD RWA optimization through advanced analytics
-- Strong software engineering background (Python, C#, VBA) for risk systems / solutions development
-- Led cross-functional teams bridging technical and business stakeholders
-- I developed  sophisticated end-to-end machine learning projects using decision trees, neural networks, NLP and GenAI techniques.
+I am a Senior AI/ML Engineer leveraging 15+ years of experience designing data-intensive intelligent systems for high-stakes environments. I combine the mathematical rigor of a Quantitative Risk veteran with the creative drive of a Product Builder to engineer AI solutions that are as reliable and trustworthy as they are innovative.
+
+I combine deep technical ability with the leadership experience to guide teams, manage cross-functional stakeholders, and translate complex technical concepts for C-suite executives. I am uniquely positioned to architect and build AI products that are not just powerful, but intuitive, commercially viable, and safe.
 
 ### 📊 Featured Projects
-- **[Market Prediction Models](link)** - XGBoost & Neural Networks for financial time-series
-- **[Customer Segmentation](link)** - K-means clustering for e-commerce optimization
-- **[Anomaly Detection](link)** - One-class SVM for industrial equipment monitoring
+- **[Topic Modelling of Gym Reviews for Actionable Strategies](link)** Leveraged Transformer models like BERTopic, DistilBert as well as classical NLP methods (LDA) to draw insights from customer experiences of a global gym company, through their reviews online. Integrated an LLM (Phi-4) to distil information and generate solutions for the critical topics. 
+- **[Student Drop-Out Prediction Model](link)** -Used XGBoost & Neural Networks to predict Student Dropout rates, Ultimately to assist the business with customer experience and retention, balancing resource utilisation. 
+- **[Commodity Market Prediction Models](link)** - LSTM models to capture temporal patterns across commodity and equity features. Leveraged Random Forest for feature selection from a set of high dimensional set of engineered features.
+- **[Optimal S&P Position Prediction Model](link)** - An ensemble LightGBM approach to estimate optimal market position. 
+- **[Customer Segmentation](link)** - Unsupervised learning with K-means clustering, to optimize the marketing strategy of an e-commerce company. PCA and T-SNE views into the data
+- **[Anomaly Detection](link)** - One-class SVM for monitoring a ship's engine to develop an early failure detection system
 
 ### 🎯 What I'm Looking For
-Data Science, ML Engineer, or AI Engineer roles in fintech, healthtech, or B2C product companies or tech consultancies. Open to dynamic startups or established tech leaders
+A forward-thinking team in FinTech, HealthTech, or Enterprise AI to architect and ship the next generation of reliable, intelligent AI products.
 
-### ⚡ Fun fact
-I am a Design, DIY and Tennis enthusiast. Music, Literature and Movies are essentials for me
+### ⚡ Personal Interests
+Visual arts and industrial design enthusiast, an amateur DIY'er , :tennis: player/fan . Music, novels and movies are essentials of life for me.
 
 ### 📫 Let's Connect
 - LinkedIn: [www.linkedin.com/in/ali-aydin-yildiz-aa69841b]
