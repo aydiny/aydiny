@@ -20,7 +20,7 @@ I combine deep technical ability with the leadership experience to guide teams, 
 - **[Commodity Market Prediction Models](https://github.com/aydiny/mitsui-commodity-price-prediction)** - LSTM models to capture temporal patterns across commodity and equity features. Leveraged Random Forest for feature selection from a set of high dimensional set of engineered features.
 - **[Optimal S&P500 Position Prediction Model](https://github.com/aydiny/hull-tactical-market-prediction)** - An ensemble LightGBM approach to estimate optimal market position. 
 - **[Customer Segmentation](https://github.com/aydiny/retail-customer-intelligence)** - Unsupervised learning with K-means clustering, to optimize the marketing strategy of an e-commerce company. PCA and T-SNE views into the data
-- **[Anomaly Detection](link)** - One-class SVM for monitoring a ship's engine to develop an early failure detection system
+- **[Anomaly Detection](https://github.com/aydiny/predictive-maintenance-anomaly-detection)** - One-class SVM for monitoring a ship's engine to develop an early failure detection system
 
 ### 🎯 What I'm Looking For
 A forward-thinking team in FinTech, HealthTech, or Enterprise AI to architect and ship the next generation of reliable, intelligent AI products.
