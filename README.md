@@ -1,7 +1,7 @@
 
 # Hi, this is Aydin! 👋
 
-## Machine Learning & AI Engineer | 15+ Years Architecting Intelligent Risk Systems | Building intelligent products and services powered with NLP, GenAI & Deep Learning | Turning Complex Data into Actionable Solutions
+## Machine Learning & AI Engineer | 15+ Years Architecting robust Risk Systems | Building intelligent products and services powered with NLP, GenAI & Deep Learning | Turning Complex Data into Actionable Solutions
 
 ### 🔧 Technical Skills
 - **Languages**: Python, R,  SQL
