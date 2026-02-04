@@ -29,5 +29,5 @@ A forward-thinking team in FinTech, HealthTech, or Enterprise AI to architect an
 Visual arts and industrial design enthusiast, an amateur DIY'er , :tennis: tennis player/fan . Music, novels and movies are essentials of life for me.
 
 ### 📫 Let's Connect
-- LinkedIn: [www.linkedin.com/in/ali-aydin-yildiz-aa69841b]
+- LinkedIn: [www.linkedin.com/in/ali-aydin-yildiz]
 - Email: aliaydinyildiz@gmail.com
