@@ -19,8 +19,8 @@
 - **Specialisations**: Time-series forecasting (LSTM, LightGBM), 
   LLM fine-tuning (LoRA/PEFT, knowledge distillation), agentic workflow design, 
   clinical AI, unsupervised learning (K-Means, One-Class SVM, PCA, t-SNE)
-- **Infrastructure & Deployment**: Render, Google Colab (T4 GPU), 
-  edge deployment (GDPR-compliant, local inference)
+- **Infrastructure & Deployment**:  Docker (containerised deployment), CI/CD (GitHub → Render auto-deploy pipeline), Render, 
+Google Colab (T4 GPU), edge deployment (GDPR-compliant, local inference)
 
 ### 💼 What Makes Me Different
 I am a Senior AI/ML Engineer leveraging 15+ years of experience designing data-intensive intelligent systems for high-stakes environments. I combine the mathematical rigor of a Quantitative Risk veteran with the creative drive of a Product Builder to engineer AI solutions that are as reliable and trustworthy as they are innovative.
