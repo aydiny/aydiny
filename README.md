@@ -1,10 +1,8 @@
 
 # Hi, i am Aydin! 👋
 
-## Machine Learning & AI Engineer | 15+ years architecting robust risk models 
-## and systems | Building intelligent products powered with Agentic AI, LLM 
-## Engineering, NLP & Deep Learning | Turning complex data into trustworthy, 
-## actionable solutions
+## Machine Learning & AI Engineer | 15+ years architecting robust risk models and systems | Building intelligent products powered with Agentic AI, LLM 
+## Engineering, NLP & Deep Learning | Turning complex data into trustworthy, actionable solutions
 
 ### 🔧 Technical Skills
 - **Languages**: Python, SQL, R
