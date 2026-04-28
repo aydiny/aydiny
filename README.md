@@ -1,13 +1,26 @@
 
-# Hi, this is Aydin! 👋
+# Hi, i am Aydin! 👋
 
 ## Machine Learning & AI Engineer | 15+ years architecting robust risk models and systems | Building intelligent products and services powered with NLP, GenAI & Deep Learning | Turning complex data into actionable solutions
 
 ### 🔧 Technical Skills
-- **Languages**: Python, R,  SQL
-- **ML/DS**: scikit-learn, LightGBM, XGBoost, TensorFlow/Keras, pandas, NumPy, Matplotlib/Seaborn
-- **NLP & GenAI**: Hugging Face, Ollama, Transformers, NLTK, spaCy
-- **Specializations**: Time-series forecasting with Deep Neural networks, LightGBM, RandomForest, unstructured text analysis and topic modelling with Transformers, NLP and GenAI, data segmentation / anomaly detection with unsupervised learning methods
+- **Languages**: Python, SQL, R
+- **ML/DS**: Scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, PyTorch, 
+  Pandas, NumPy, Matplotlib/Seaborn
+- **LLM Engineering & GenAI**: LangChain, LangGraph, Hugging Face Transformers, 
+  PEFT/LoRA, SFTTrainer, Ollama, OpenAI API, GPT-4o-mini, MedGemma, Phi-4-mini
+- **Agentic AI & RAG**: LangGraph (stateful multi-node pipelines), LangChain RAG, 
+  ChromaDB, FAISS, Maximal Marginal Relevance (MMR), vector store engineering
+- **NLP**: BERTopic, DistilBERT, spaCy, NLTK, topic modelling (LDA), 
+  clinical NLP, text preprocessing pipelines
+- **ML Engineering & Pipelines**: End-to-end ML pipeline design, feature 
+  engineering, hyperparameter tuning (GridSearch, HyperBand), model validation, 
+  automated testing, production deployment
+- **Specialisations**: Time-series forecasting (LSTM, LightGBM), 
+  LLM fine-tuning (LoRA/PEFT, knowledge distillation), agentic workflow design, 
+  clinical AI, unsupervised learning (K-Means, One-Class SVM, PCA, t-SNE)
+- **Infrastructure & Deployment**: Render, Google Colab (T4 GPU), 
+  edge deployment (GDPR-compliant, local inference)
 
 ### 💼 What Makes Me Different
 I am a Senior AI/ML Engineer leveraging 15+ years of experience designing data-intensive intelligent systems for high-stakes environments. I combine the mathematical rigor of a Quantitative Risk veteran with the creative drive of a Product Builder to engineer AI solutions that are as reliable and trustworthy as they are innovative.
