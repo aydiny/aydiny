@@ -1,7 +1,7 @@
 
 # Hi, i am Aydin! 👋
 
-## Machine Learning & AI Engineer | 15+ years architecting robust risk models and systems | Building intelligent products powered with Agentic AI, LLM Engineering, NLP & Deep Learning | Turning complex data into trustworthy, actionable solutions
+## Data Scientist / Machine Learning & AI Engineer | 15+ years architecting robust risk models and systems | Building intelligent products powered with Agentic AI, LLM Engineering, NLP & Deep Learning | Turning complex data into trustworthy, actionable solutions
 
 ### 🔧 Technical Skills
 - **Languages**: Python, SQL, R
@@ -23,7 +23,7 @@
 Google Colab (T4 GPU), edge deployment (GDPR-compliant, local inference)
 
 ### 💼 What Makes Me Different
-I am a Senior AI/ML Engineer leveraging 15+ years of experience designing data-intensive intelligent systems for high-stakes environments. I combine the mathematical rigor of a Quantitative Risk veteran with the creative drive of a Product Builder to engineer AI solutions that are as reliable and trustworthy as they are innovative.
+I am a Data Scientist / AI-ML Engineer leveraging 15+ years of experience designing data-intensive intelligent systems for high-stakes environments. I combine the mathematical rigor of a Quantitative Risk veteran with the creative drive of a Product Builder to engineer AI solutions that are as reliable and trustworthy as they are innovative.
 
 I combine deep technical ability with the leadership experience to guide teams, manage cross-functional stakeholders, and translate complex technical concepts for C-suite executives. I am uniquely positioned to architect and build AI products that are not just powerful, but intuitive, commercially viable, and safe.
 
